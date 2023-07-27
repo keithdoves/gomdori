@@ -1,11 +1,16 @@
 team: Pumas
 
-manager: Jude
+manager: Thanos
+
+coach : Ronan
 
 members:
 - Ezra
 - Carter
 - Finn
 - Pororo
+- Gamora
+- Nebula
+
 
 fetch : this
